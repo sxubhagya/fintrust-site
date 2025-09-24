@@ -1,0 +1,7 @@
+@import './tailwind.css';
+@import './utilities.css';
+
+/* Global styles placeholder */
+html, body, #__next {
+  height: 100%;
+}
